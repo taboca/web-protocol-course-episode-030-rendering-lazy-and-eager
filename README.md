@@ -1,4 +1,4 @@
-# Episode 030 – The Lazy and Eager Grid Renderer 
+# The Web Protocol Course Episode 030 – The Lazy and Eager Grid Renderer 
 
 * [Check Fun Evangelist Season](https://www.mgalli.com/s/evangelistcast) to see other chapters and support the project.
 
